@@ -1,1 +1,1 @@
-# App_for_recipes
+# App_for_recipes: PyQT5
